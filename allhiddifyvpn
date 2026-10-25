@@ -3,7 +3,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: expire=4102444800; total=0; used=0
 #announce:🤡 Создатель этой хуйни @remiuc                                                                                                      🌟 Конфиги могут обновляться автоматически каждые 24часа!                                                                                                                   📡 Наш ТГК: @hiddifycode!
- vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#🇫🇷 Франция
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#🇫🇷 Франция
 vless://0af34045-3d5e-4abe-bc8a-16e356daa214@de.vmagnum.win:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=api-v3-0af34045.vmagnum.win#🇩🇪 Германия
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#🇫🇷 Франция
 vless://0af34045-3d5e-4abe-bc8a-16e356daa214@de.vmagnum.win:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=api-v3-0af34045.vmagnum.win#🇩🇪 Германия
