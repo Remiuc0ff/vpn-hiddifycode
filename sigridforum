@@ -3,7 +3,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: expire=4102444800; total=0; used=0
 #announce:🌐 Создатель этой хуйни @remiuc                                                                                                      🌟 Sigrid VPN — твой VPN для работы и повседневных задач!                                                                                                                   📡 Наш форум!: @sigridforum 
- vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@2.27.14.117:443?security=reality&encryption=none&pbk=CLu1G-hnUfhKL3il65fPwax5iB5AWjYB5MLCR2BH7DA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fjord.gaznw.my&sid=4dae50bb09e70c8b#🇬🇧 Великобритания
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@2.27.14.117:443?security=reality&encryption=none&pbk=CLu1G-hnUfhKL3il65fPwax5iB5AWjYB5MLCR2BH7DA&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fjord.gaznw.my&sid=4dae50bb09e70c8b#🇬🇧 Великобритания
 vless://50bed1c1-ee9f-5f7b-8d09-f90f23b947e8@172.67.210.13:443?path=%2Fvpn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de.24magic-up.ru&fp=chrome&type=ws&allowInsecure=0&sni=de.24magic-up.ru#🇺🇸 США
 vless://e71f3fe4-ccfb-464a-895d-41831efe13a9@151.242.237.3:443?security=reality&encryption=none&pbk=dxsu1yp4dcpuhq32vLIX6fZ3A7uWs_5OzNIlUmLBSzQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl-1-h.124515.xyz&sid=c7c005c49b11d17c#🇫🇮 Финляндия
 vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.236.22.34:443?security=reality&encryption=none&pbk=oKG1EhkfIvBM6xLEk7ck51ZbjvUKDR22RNjTJR_7sTU&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=amber.gaznw.my&sid=46da9a2868751b85#🇳🇱 Нидерланды
